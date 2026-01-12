@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Canal @civicdarevoada - Site Profissional</title>
+<meta name="description" content="Site oficial do canal @civicdarevoada. Conteúdo original, serviços e blog prontos para Google Ads.">
+<meta name="keywords" content="civicdarevoada, site profissional, serviços, blog, conteúdo original, Google Ads">
+<meta name="author" content="Mateus Nunes">
+
+<!-- Open Graph -->
+<meta property="og:title" content="Canal @civicdarevoada - Site Profissional">
+<meta property="og:description" content="Site oficial do canal @civicdarevoada. Conteúdo original, blog e serviços prontos para Google Ads.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://www.seusite.com">
+<meta property="og:image" content="https://www.seusite.com/imagem-banner.jpg">
+
+<!-- Google AdSense -->
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" crossorigin="anonymous"></script>
+
+<!-- Fontes e ícones -->
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
+
+<style>
+* { margin:0; padding:0; box-sizing:border-box; }
+body { font-family:'Roboto', sans-serif; background:#f0f4f8; color:#333; scroll-behavior:smooth; }
+header { background:linear-gradient(90deg,#1e3a8a,#2563eb); color:#fff; padding:50px 20px; text-align:center; }
+header h1 { font-size:3rem; margin-bottom:10px; }
+header p { font-size:1.2rem; }
+.banner-top { display:flex; justify-content:center; margin:20px auto; }
+.banner-top ins { width:100%; max-width:970px; }
+nav { display:flex; justify-content:center; gap:25px; background:#1e40af; padding:15px 0; position:sticky; top:0; z-index:100; }
+nav a { color:#fff; text-decoration:none; font-weight:700; transition:0.3s; }
+nav a:hover { color:#facc15; }
+section { padding:60px 20px; max-width:1200px; margin:auto; margin-bottom:30px; background:#fff; border-radius:15px; box-shadow:0 4px 12px rgba(0,0,0,0.1); transition: transform 0.3s; }
+section:hover { transform: translateY(-5px); }
+h2 { color:#1e3a8a; margin-bottom:25px; text-align:center; }
+.services { display:flex; flex-wrap:wrap; gap:20px; justify-content:center; }
+.service { flex:1 1 250px; background:#e0e7ff; padding:25px; border-radius:15px; text-align:center; transition:0.3s; }
+.service i { font-size:2.5rem; margin-bottom:15px; color:#1e3a8a; }
+.service:hover { transform: translateY(-10px); background:#c7d2fe; }
+.blog-cards { display:flex; flex-wrap:wrap; gap:20px; justify-content:center; }
+.blog-card { flex:1 1 300px; background:#fef9e7; padding:20px; border-radius:15px; box-shadow:0 2px 6px rgba(0,0,0,0.1); transition:0.3s; }
+.blog-card h3 { margin-bottom:10px; color:#1e3a8a; }
+.blog-card p { font-size:0.95rem; }
+.blog-card:hover { transform: translateY(-5px); background:#fff4c2; }
+form { display:flex; flex-direction:column; gap:15px; }
+input, textarea { padding:12px; border:1px solid #ccc; border-radius:8px; width:100%; font-size:1rem; }
+button { padding:12px; border:none; background:#1e3a8a; color:#fff; font-weight:700; font-size:1rem; border-radius:8px; cursor:pointer; transition:0.3s; }
+button:hover { background:#2563eb; }
+.ad-container { display:flex; justify-content:center; margin:25px 0; }
+footer { text-align:center; padding:25px; background:#1e3a8a; color:#fff; }
+@media(max-width:1024px) { .blog-cards { flex-direction:column; } .services { flex-direction:column; } }
+@media(max-width:768px) { header h1 { font-size:2rem; } }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>Canal @civicdarevoada</h1>
+  <p>Conteúdo original, serviços e blog prontos para Google Ads</p>
+</header>
+
+<!-- Banner Top AdSense -->
+<div class="banner-top">
+  <ins class="adsbygoogle"
+       style="display:block"
+       data-ad-client="ca-pub-5001611036351866"
+       data-ad-slot="1000000000"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
+<nav>
+  <a href="#home">Home</a>
+  <a href="#sobre">Sobre</a>
+  <a href="#servicos">Serviços</a>
+  <a href="#blog">Blog</a>
+  <a href="#contato">Contato</a>
+</nav>
+
+<section id="home">
+  <h2>Bem-vindo ao canal @civicdarevoada</h2>
+  <p>Este site é moderno, responsivo e preparado para monetização máxima com Google Ads. Confira nossos serviços e conteúdo original.</p>
+  <div class="ad-container">
+    <ins class="adsbygoogle"
+         style="display:block"
+         data-ad-client="ca-pub-5001611036351866"
+         data-ad-slot="2000000000"
+         data-ad-format="auto"
+         data-full-width-responsive="true"></ins>
+    <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+  </div>
+</section>
+
+<section id="sobre">
+  <h2>Sobre @civicdarevoada</h2>
+  <p>Somos o canal @civicdarevoada, criando conteúdo original e informativo para nosso público. Serviços, dicas e blog preparados para monetização segura.</p>
+</section>
+
+<section id="servicos">
+  <h2>Serviços / Produtos</h2>
+  <div class="services">
+    <div class="service"><i class="fas fa-music"></i><h3>Serviço 1</h3><p>Conteúdo de música e entretenimento original do canal @civicdarevoada.</p></div>
+    <div class="service"><i class="fas fa-paint-brush"></i><h3>Serviço 2</h3><p>Design e artes digitais relacionadas ao canal @civicdarevoada.</p></div>
+    <div class="service"><i class="fas fa-lightbulb"></i><h3>Serviço 3</h3><p>Dicas, tutoriais e conteúdo educativo do canal @civicdarevoada.</p></div>
+  </div>
+  <div class="ad-container">
+    <ins class="adsbygoogle"
+         style="display:block"
+         data-ad-client="ca-pub-5001611036351866"
+         data-ad-slot="3000000000"
+         data-ad-format="auto"
+         data-full-width-responsive="true"></ins>
+    <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+  </div>
+</section>
+
+<section id="blog">
+  <h2>Blog do canal @civicdarevoada</h2>
+  <div class="blog-cards">
+    <div class="blog-card"><h3>Post 1</h3><p>Exemplo de artigo para engajar visitantes e melhorar SEO do canal @civicdarevoada.</p></div>
+    <div class="blog-card"><h3>Post 2</h3><p>Exemplo de artigo para engajar visitantes e melhorar SEO do canal @civicdarevoada.</p></div>
+    <div class="blog-card"><h3>Post 3</h3><p>Exemplo de artigo para engajar visitantes e melhorar SEO do canal @civicdarevoada.</p></div>
+  </div>
+  <div class="ad-container">
+    <ins class="adsbygoogle"
+         style="display:block"
+         data-ad-client="ca-pub-5001611036351866"
+         data-ad-slot="4000000000"
+         data-ad-format="auto"
+         data-full-width-responsive="true"></ins>
+    <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+  </div>
+</section>
+
+<section id="contato">
+  <h2>Contato</h2>
+  <form action="mailto:seuemail@exemplo.com" method="post" enctype="text/plain">
+    <input type="text" name="nome" placeholder="Seu nome" required>
+    <input type="email" name="email" placeholder="Seu email" required>
+    <textarea name="mensagem" rows="5" placeholder="Sua mensagem" required></textarea>
+    <button type="submit">Enviar</button>
+  </form>
+</section>
+
+<section id="politica">
+  <h2>Política de Privacidade e Termos</h2>
+  <p>Este site segue todas as diretrizes de privacidade e políticas do Google Ads. Nenhum dado pessoal é compartilhado sem consentimento.</p>
+</section>
+
+<footer>
+  <p>&copy; 2026 @civicdarevoada - Todos os direitos reservados</p>
+</footer>
+
+</body>
+</html>
